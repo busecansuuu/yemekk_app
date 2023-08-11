@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "351273690407",
+    "project_id": "bus-chatapp",
+    "storage_bucket": "bus-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351273690407:android:95abff9bbae6940e10b502",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351273690407-qmj0gei5nqlpe5jbdavk2b6jr6kfened.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduMJ9eS-wc1Cm0VlENeaRpcxXuYXcd_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351273690407-22ca6dfev4k400oldr2gk876hik7leta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351273690407-3rtg8c1tnf35bg6pveuf5epvlasor92a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
